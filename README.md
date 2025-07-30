@@ -67,7 +67,7 @@ project/
 │   └── db_handler.py
 │   └── image_log.db
 ├── logic/
-│   └── action_mapper.py       # 분류 결과 → 예상 동작 추론
+│   └── action_mapper.py
 ├── utils/
 │   └── file_handler.py
 ├── main.py
